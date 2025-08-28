@@ -7,5 +7,10 @@ cask "astrae" do
   desc "Seu aplicativo em SwiftUI para macOS"
   homepage "https://github.com/mdSanada/homebrew-astrae"
 
-  app "Astrae.app"
+  app "Astrae.app"\
+  zap trash: [
+    "~/Library/Preferences/com.sanada.Astrae.plist",
+    "~/Library/Application Support/Astrae",
+  ]
 end
+
