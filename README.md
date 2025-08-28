@@ -3,7 +3,7 @@
 Astrae é um aplicativo para macOS que traz um **tradutor rápido e integrado** ao sistema.  
 Com atalhos simples, você pode traduzir qualquer texto sem sair do seu fluxo de trabalho, com suporte nativo ao framework de tradução da Apple.
 
-![Astrae](https://github.com/user-attachments/assets/14b1fc67-ce1b-4927-aa76-a530c8485a06)
+![Astrae](https://github.com/user-attachments/assets/c605c34d-f92f-4be0-80e3-798d66f59323)
 
 ---
 
